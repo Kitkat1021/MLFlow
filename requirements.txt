@@ -1,2 +1,4 @@
 mlflow
 numpy
+scikit-learn
+pandas
